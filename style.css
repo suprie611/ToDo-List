@@ -1,0 +1,22 @@
+
+.custom{
+    padding: 4%;
+    text-align: center;
+}
+.banner{
+    
+    width: 100%;
+    min-height: 100vh;
+    
+    justify-content: center;
+    align-items: center;
+    background: url(images/download.jpg);
+    background-size: cover;
+}
+h1{
+    color: #fff;
+    
+}
+span{
+    cursor: pointer;
+}
